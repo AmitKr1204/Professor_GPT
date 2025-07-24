@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+streamlit-lottie
+fpdf
+python-dotenv
+requests
